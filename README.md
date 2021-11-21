@@ -22,6 +22,6 @@
 ##### Ground clearance.
 
 Is the slope of the linear model considered to be zero? Why or why not?
-#### No, because we can see above from the equation of the linear model that all coefficients of our predictor variables are non-zero, therefore the slope of our linear model is non-zero.
+##### No, because we can see above from the equation of the linear model that all coefficients of our predictor variables are non-zero, therefore the slope of our linear model is non-zero.
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
