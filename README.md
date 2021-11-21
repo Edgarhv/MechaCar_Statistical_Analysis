@@ -58,3 +58,7 @@ In the image above of design specifications for the MechaCar suspension coils, w
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/c0c64aad26cff054d361953e98aa493f72ecae3b/Images/Lot3.png)
 
 # Study Design: MechaCar vs Competition
+
+* What metric or metrics are you going to test?
+
+##### Selling price - Dependent variable + Highway fuel efficiency - Independent variable + Maintenance cost - Independent variable + MPG - Independent variable + Safety rating - Independent variable
