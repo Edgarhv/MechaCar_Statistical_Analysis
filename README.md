@@ -43,3 +43,5 @@ In the image above of design specifications for the MechaCar suspension coils, w
 # T-Tests on Suspension Coils
 
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/8a18fca4bd9978f42ba14b0d58507950529043bc/Images/1.png)
+
+##### We can see in the image above that there is no evidence of rejecting the null hypothesis because the true mean of the sample is 1498.78 and a p-Value of 0.06. 
