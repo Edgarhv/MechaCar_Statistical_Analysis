@@ -47,7 +47,8 @@ In the image above of design specifications for the MechaCar suspension coils, w
 ##### We can see in the image above that there is no evidence of rejecting the null hypothesis because the true mean of the sample is 1498.78 and a p-Value of 0.06. 
 
 ## Individual Lots
-
+### Lot 1
+##### There is not sufficient evidence to reject the null hypothesis assuming our significance level and With a p-Value of 1.
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/31c0836bfd210f4c2ab937c0b68dcea8bf2f0539/Images/Lot1.png)
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/21752b6114093e6156ad01c4eeaa93d252035a34/Images/Lot2.png)
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/c0c64aad26cff054d361953e98aa493f72ecae3b/Images/Lot3.png)
