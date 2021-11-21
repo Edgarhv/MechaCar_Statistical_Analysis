@@ -62,3 +62,6 @@ In the image above of design specifications for the MechaCar suspension coils, w
 * What metric or metrics are you going to test?
 
 ##### Selling price - Dependent variable + Highway fuel efficiency - Independent variable + Maintenance cost - Independent variable + MPG - Independent variable + Safety rating - Independent variable
+*  Null hypothesis or alternative hypothesis
+##### Its MechaCar selling price is correct based on the perform 
+##### There is a relation based on the performance of key factors.
