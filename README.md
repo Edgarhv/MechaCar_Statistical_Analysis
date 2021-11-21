@@ -62,11 +62,11 @@ In the image above of design specifications for the MechaCar suspension coils, w
 * What metric or metrics are you going to test?
 
 ##### Selling price - Dependent variable + Highway fuel efficiency - Independent variable + Maintenance cost - Independent variable + MPG - Independent variable + Safety rating - Independent variable
-*  Null hypothesis or alternative hypothesis
+*  What is the null hypothesis or alternative hypothesis?
 ##### Its MechaCar selling price is correct based on the perform 
 ##### There is a relation based on the performance of key factors.
 
-* Statistical Test
+* What statistical test would you use to test the hypothesis? And why?
 ##### We know that a Multiple linear regression can process more than two independent variables and it will be useful for our model.
 
 * What data is needed to run the statistical test?
