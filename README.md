@@ -39,3 +39,5 @@ In the image above of design specifications for the MechaCar suspension coils, w
 
 * Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 ##### It doesn't, because the third lot has a higher than normal variance at 170.2861224, and the total summary variance is 62.29356, but the variances for Lot1 and Lot2 are within design specifications.
+
+# T-Tests on Suspension Coils
