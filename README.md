@@ -48,4 +48,4 @@ In the image above of design specifications for the MechaCar suspension coils, w
 
 ## Individual Lots
 
-![img](
+![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/31c0836bfd210f4c2ab937c0b68dcea8bf2f0539/Images/Lot1.png)
