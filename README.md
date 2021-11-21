@@ -50,3 +50,4 @@ In the image above of design specifications for the MechaCar suspension coils, w
 
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/31c0836bfd210f4c2ab937c0b68dcea8bf2f0539/Images/Lot1.png)
 ![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/21752b6114093e6156ad01c4eeaa93d252035a34/Images/Lot2.png)
+![img](https://github.com/Edgarhv/MechaCar_Statistical_Analysis/blob/c0c64aad26cff054d361953e98aa493f72ecae3b/Images/Lot3.png)
