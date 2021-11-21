@@ -65,3 +65,9 @@ In the image above of design specifications for the MechaCar suspension coils, w
 *  Null hypothesis or alternative hypothesis
 ##### Its MechaCar selling price is correct based on the perform 
 ##### There is a relation based on the performance of key factors.
+
+* Statistical Test
+##### We know that a Multiple linear regression can process more than two independent variables and it will be useful for our model.
+
+* What data is needed to run the statistical test?
+##### I would like to  perform statistical tests on data that have been collected in a statistically valid manner
