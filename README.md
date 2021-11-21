@@ -13,3 +13,5 @@
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 # Linear Regression to Predict MPG
+
+* Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
